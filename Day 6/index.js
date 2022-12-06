@@ -1,3 +1,5 @@
+// Solution done complicately at first.. Check index.alternative.js for easy one
+
 const fs = require("fs");
 
 fs.readFile("input.txt", "utf8", function (err, input) {
