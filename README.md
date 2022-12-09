@@ -12,7 +12,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 | [6](./Day%206/)    |  ✅    | ✅      |
 | [7](./Day%207/)    |  ✅    | ✅      |
 | [8](./Day%208/)    |  ✅    | ✅      |
-| [9](./Day%209/)    |       |        |
+| [9](./Day%209/)    |  ✅    | ✅      |
 | [10](./Day%2010/)   |       |        |
 | [11](./Day%2011/)   |       |        |
 | [12](./Day%2012/)   |       |        |
