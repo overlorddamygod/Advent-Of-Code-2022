@@ -104,4 +104,17 @@ const part2 = (input) => {
     const end = start + 40;
     console.log(screen.slice(start, end).split("").join(" "));
   }
+  console.log()
+
+  colorPrint(screen)
 };
+
+const colorPrint = (screen) => {
+  const greenBox = "\x1b[32m■"
+
+  for (let i = 0; i < 6; i++) {
+    const start = i * 40;
+    const end = start + 40;
+    console.log(screen.slice(start, end).split("").map(a=> a == "#" ? greenBox : "\x1b[37m ").join(" "));
+  }
+}
