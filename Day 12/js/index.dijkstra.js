@@ -1,3 +1,6 @@
+// Implementation using Dijkstra Algorithm and Priority Queue
+// which is veryyyyyy slowwwww
+
 const fs = require("fs");
 const {PriorityQueue} = require("./priorityQueue");
 
